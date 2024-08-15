@@ -1,0 +1,1 @@
+export GZ_SIM_RESOURCE_PATH="$HOME/my_gazebo/models"
